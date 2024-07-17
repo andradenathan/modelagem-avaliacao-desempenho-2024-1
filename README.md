@@ -2,6 +2,17 @@
 
 Nesta disciplina os seguintes tópicos foram abordados:
 
-- Teoria de Filas: sistemas abertos e fechados, taxa de entrada e de saída, vazão (throughput), tempo no sistema, resultado de Little, PASTA, variações de políticas de scheduling para a fila M/G/1;
-- Cadeias de Markov (tempo discreto e tempo contínuo), ergodicidade, distribuição estacionária
+- Teoria de Filas:
+  - Sistemas abertos e fechados
+  - Taxa de entrada e de saída
+  - Vazão (throughput)
+  - Tempo no sistema
+  - Lei de Little
+  - PASTA
+  - Fila M/M/1
+- Cadeias de Markov (tempo discreto e tempo contínuo),
+  - Ergodicidade
+  - Distribuição Estacionária
+  - Distribuição Limite
+- Método de Monte Carlo
 - Monte Carlo com Cadeia de Markov
